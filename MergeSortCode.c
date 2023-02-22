@@ -1,7 +1,7 @@
 #include<stdio.h>
 
+int n; //Array size globally decleared
 
-int n;
 void Marge(int a[], int l, int mid, int r)
 {
     int temp[n];
